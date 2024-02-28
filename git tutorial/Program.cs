@@ -10,7 +10,8 @@ namespace git_tutorial
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hallo");
+            Console.WriteLine("Mein Name ist Abdurrahman Celen und ich bin 18 Jahre alt");
         }
     }
 }
